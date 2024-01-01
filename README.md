@@ -1,6 +1,6 @@
 ## 1. Introduction
 
-Welcome to our ReactJS project! This guide is designed to help you seamlessly set up and use our ReactJS starter template with Ant Design. Whether you're a beginner or an experienced developer, these instructions will assist you in customizing and launching your application efficiently.
+Welcome to our ReactJS project! This guide is designed to help you seamlessly set up and use our ReactJS starter template with Material UI. Whether you're a beginner or an experienced developer, these instructions will assist you in customizing and launching your application efficiently.
 
 ## 2. Installation
 
