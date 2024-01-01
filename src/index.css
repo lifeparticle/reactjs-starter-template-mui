@@ -1,0 +1,30 @@
+@import "./styles/colors.css";
+@import "./styles/sizes.css";
+@import "./styles/z-index.css";
+@import "./styles/borders.css";
+@import "./styles/fonts.scss";
+@import "./styles/shadows.css";
+@import "./styles/animations.css";
+@import "./styles/antd-overrides.css";
+@import "./styles/global.css";
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+* {
+	margin: 0;
+}
+
+html,
+body {
+	height: 100%;
+	overflow: hidden;
+}
+
+body {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
