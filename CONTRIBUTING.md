@@ -1,12 +1,10 @@
 ## Before you contribute
 
 -   Is it necessary?
--   Does it make developing reactjs-starter-template-mui
- easier?
+-   Does it make developing reactjs-starter-template-mui easier?
 -   Does it fix a bug? -> Create an [issue](https://github.com/lifeparticle/reactjs-starter-template-mui/issues/new) with the steps to reproduce
 -   Does it break anything? -> Run the tests
--   Does it stick to the original goal of reactjs-starter-template-mui
- -> ReactJS starter template with Material UI
+-   Does it stick to the original goal of reactjs-starter-template-mui -> ReactJS starter template with Material UI
 -   Does it reduce the build size?
 -   Does it improve the user experience?
 -   Does it improve the performance?
