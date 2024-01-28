@@ -144,6 +144,8 @@ To view a curated list of extensions, proceed to the "Extensions" section and ap
 -   Add **fonts** folder
 -   Add **Giest** and **Geist-Mono** folders
 -   Update **fonts.scss**
+-   Add [PageNotFound.svg](https://error404.fun/)
+-   Update the `reactjs-starter-template-mui/src/pages/PageNotFound/PageNotFound.tsx` file
 
 ```scss
 :where(html) {
