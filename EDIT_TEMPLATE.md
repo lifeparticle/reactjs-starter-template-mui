@@ -128,6 +128,10 @@ Get inspiration from [open-props](https://open-props.style/)
 
 -   Update the `reactjs-starter-template-mui/src/pages/PageNotFound/PageNotFound.tsx` file
 
+### 1.10. Modify **SECURITY.md**:
+
+-   Line 5: Replace [INSERT CONTACT METHOD].
+
 ## 2. How was this project created?
 
 See the creation details here: [HOW](./HOW.md)
