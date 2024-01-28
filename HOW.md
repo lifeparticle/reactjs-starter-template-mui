@@ -147,7 +147,7 @@ To view a curated list of extensions, proceed to the "Extensions" section and ap
 -   Add **Giest** and **Geist-Mono** folders
 -   Update **fonts.scss**
 -   Add [PageNotFound.svg](https://error404.fun/)
--   Update the `src/pages/PageNotFound/PageNotFound.tsx` file
+-   Update the `/src/pages/PageNotFound/PageNotFound.tsx` file
 
 ```scss
 :where(html) {

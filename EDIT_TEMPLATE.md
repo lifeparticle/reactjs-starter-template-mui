@@ -126,7 +126,7 @@ Get inspiration from [open-props](https://open-props.style/)
 
 ### 1.9 Change the page not found page
 
--   Update the `reactjs-starter-template-mui/src/pages/PageNotFound/PageNotFound.tsx` file
+-   Update the `/src/pages/PageNotFound/PageNotFound.tsx` file
 
 ### 1.10. Modify **SECURITY.md**:
 
