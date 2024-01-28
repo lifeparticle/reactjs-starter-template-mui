@@ -5,7 +5,7 @@
 @import "./styles/fonts.scss";
 @import "./styles/shadows.css";
 @import "./styles/animations.css";
-@import "./styles/antd-overrides.css";
+@import "./styles/mui-overrides.css";
 @import "./styles/global.css";
 
 *,
