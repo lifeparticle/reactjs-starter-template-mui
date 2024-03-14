@@ -116,7 +116,7 @@ Copyright (c) 9973 Alice
 
 [Introduction](https://github.com/lifeparticle/reactjs-starter-template-mui/blob/main/README.md#1-introduction)
 
-### 1.7. Update the **styles** folder with your CSS variables
+### 1.7. Update the **styles** folder with your CSS variables (Optional)
 
 Get inspiration from [open-props](https://open-props.style/)
 
